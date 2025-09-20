@@ -24,6 +24,7 @@ A collection of helpers for working with HTML5 canvas.
 
 * [README](https://github.com/basementuniverse/canvas-helpers/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/canvas-helpers)
+* [example](https://basementuniverse.github.io/canvas-helpers/example.html)
 
 ### [Intersection Helpers](https://github.com/basementuniverse/intersection-helpers)
 
@@ -31,6 +32,7 @@ A collection of helpers for detecting intersections in 2D and 3D.
 
 * [README](https://github.com/basementuniverse/intersection-helpers/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/intersection-helpers)
+* [examples](https://basementuniverse.github.io/intersection-helpers/examples/index.html)
 
 ## Components
 
@@ -40,6 +42,9 @@ A component for animating values in browser games.
 
 * [README](https://github.com/basementuniverse/animation/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/animation)
+* [easing functions](https://basementuniverse.github.io/animation/demos/easing-functions.html)
+* [editor](https://basementuniverse.github.io/animation/demos/editor.html)
+* [multi-animation](https://basementuniverse.github.io/animation/demos/multi-animation.html)
 
 ### [Scene Graph](https://github.com/basementuniverse/scene-graph)
 
@@ -54,6 +59,8 @@ A component for rendering text using image fonts.
 
 * [README](https://github.com/basementuniverse/image-font/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/image-font)
+* [example](https://basementuniverse.github.io/image-font/example/example.html)
+* [generate data](https://basementuniverse.github.io/image-font/example/generate-data.html)
 
 ### [Tile Map](https://github.com/basementuniverse/tile-map)
 
@@ -89,6 +96,9 @@ A component for animating and rendering particles in 2d games.
 
 * [README](https://github.com/basementuniverse/particles-2d/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/particles-2d)
+* [demo 1](https://basementuniverse.github.io/particles-2d/demos/demo-1.html)
+* [demo 2](https://basementuniverse.github.io/particles-2d/demos/demo-2.html)
+* [demo 3](https://basementuniverse.github.io/particles-2d/demos/demo-3.html)
 
 ### [Input Manager](https://github.com/basementuniverse/input-manager)
 
@@ -124,6 +134,7 @@ A camera component for use in 3d browser games.
 
 * [README](https://github.com/basementuniverse/camera-3d/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/camera-3d)
+* [example](https://basementuniverse.github.io/camera-3d/example.html)
 
 ## Experiments and other miscellaneous stuff
 
@@ -134,6 +145,8 @@ Framework for building and running turn-based games.
 * [README](https://github.com/basementuniverse/asobi/blob/master/README.md)
 * [NPM (server)](https://www.npmjs.com/package/@basementuniverse/asobi-server)
 * [NPM (client)](https://www.npmjs.com/package/@basementuniverse/asobi-client)
+* [connect 4 example](http://connect4.basementuniverse.com/)
+* [battleships example](http://battleships.basementuniverse.com/)
 
 ### [Lighting 2d](https://github.com/basementuniverse/lighting-2d)
 
@@ -193,3 +206,4 @@ A simple tile engine with Javascript and Canvas.
 2d driving with skidding and sliding.
 
 * [README](https://github.com/basementuniverse/tyre-model/blob/master/README.md)
+* [try it out](https://basementuniverse.github.io/tyre-model/)
