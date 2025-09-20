@@ -153,12 +153,15 @@ Framework for building and running turn-based games.
 Lighting and shadows in 2.5d.
 
 * [README](https://github.com/basementuniverse/lighting-2d/blob/master/README.md)
+* [try it out](https://basementuniverse.github.io/lighting-2d/)
+    * Click "Import state from JSON" and paste in the contents of [this JSON file](https://github.com/basementuniverse/lighting-2d/blob/master/samples/sample-scene-1.json)
 
 ### [Game Example](https://github.com/basementuniverse/game-example)
 
 A demo of various game components.
 
 * [README](https://github.com/basementuniverse/game-example/blob/master/README.md)
+* [try it out](https://basementuniverse.github.io/game-example/)
 
 ### [Async](https://github.com/basementuniverse/async)
 
