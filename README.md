@@ -1,4 +1,6 @@
-# Game Components Docs Hub
+---
+title: Game Components Documentation Hub
+---
 
 Over the years I have built up a small library of reusable components which are useful for developing HTML5 games. This is a hub for their documentation.
 
