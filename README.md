@@ -4,192 +4,192 @@ Over the years I have built up a small library of reusable components which are 
 
 ## Essentials
 
-### Vec
+### [Vec](https://github.com/basementuniverse/vec)
 
 A small vector and matrix library.
 
-* https://github.com/basementuniverse/vec
-* https://www.npmjs.com/package/@basementuniverse/vec
+* [README](https://github.com/basementuniverse/vec/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/vec)
 
-### Utils
+### [Utils](https://github.com/basementuniverse/utils)
 
 A collection of useful functions.
 
-* https://github.com/basementuniverse/utils
-* https://www.npmjs.com/package/@basementuniverse/utils
+* [README](https://github.com/basementuniverse/utils/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/utils)
 
-### Canvas Helpers
+### [Canvas Helpers](https://github.com/basementuniverse/canvas-helpers)
 
 A collection of helpers for working with HTML5 canvas.
 
-* https://github.com/basementuniverse/canvas-helpers
-* https://www.npmjs.com/package/@basementuniverse/canvas-helpers
+* [README](https://github.com/basementuniverse/canvas-helpers/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/canvas-helpers)
 
-### Intersection Helpers
+### [Intersection Helpers](https://github.com/basementuniverse/intersection-helpers)
 
 A collection of helpers for detecting intersections in 2D and 3D.
 
-* https://github.com/basementuniverse/intersection-helpers
-* https://www.npmjs.com/package/@basementuniverse/intersection-helpers
+* [README](https://github.com/basementuniverse/intersection-helpers/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/intersection-helpers)
 
 ## Components
 
-### Animation
+### [Animation](https://github.com/basementuniverse/animation)
 
 A component for animating values in browser games.
 
-* https://github.com/basementuniverse/animation
-* https://www.npmjs.com/package/@basementuniverse/animation
+* [README](https://github.com/basementuniverse/animation/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/animation)
 
-### Scene Graph
+### [Scene Graph](https://github.com/basementuniverse/scene-graph)
 
 A basic scene graph component for use in 2d games.
 
-* https://github.com/basementuniverse/scene-graph
-* https://www.npmjs.com/package/@basementuniverse/scene-graph
+* [README](https://github.com/basementuniverse/scene-graph/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/scene-graph)
 
-### Image Font
+### [Image Font](https://github.com/basementuniverse/image-font)
 
 A component for rendering text using image fonts.
 
-* https://github.com/basementuniverse/image-font
-* https://www.npmjs.com/package/@basementuniverse/image-font
+* [README](https://github.com/basementuniverse/image-font/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/image-font)
 
-### Tile Map
+### [Tile Map](https://github.com/basementuniverse/tile-map)
 
 Render 2d tile maps with layers, chunk rendering, tilesets, procedural generation, etc.
 
-* https://github.com/basementuniverse/tile-map
-* https://www.npmjs.com/package/@basementuniverse/tile-map
+* [README](https://github.com/basementuniverse/tile-map/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/tile-map)
 
-### Sprite
+### [Sprite](https://github.com/basementuniverse/sprite)
 
 A basic sprite component for use in 2d games, with animations and directions.
 
-* https://github.com/basementuniverse/sprite
-* https://www.npmjs.com/package/@basementuniverse/sprite
+* [README](https://github.com/basementuniverse/sprite/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/sprite)
 
-### Texture Atlas
+### [Texture Atlas](https://github.com/basementuniverse/texture-atlas)
 
 A component for chopping up images into multiple canvases.
 
-* https://github.com/basementuniverse/texture-atlas
-* https://www.npmjs.com/package/@basementuniverse/texture-atlas
+* [README](https://github.com/basementuniverse/texture-atlas/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/texture-atlas)
 
-### Scene Manager
+### [Scene Manager](https://github.com/basementuniverse/scene-manager)
 
 A component for managing a stack of scenes in a game.
 
-* https://github.com/basementuniverse/scene-manager
-* https://www.npmjs.com/package/@basementuniverse/scene-manager
+* [README](https://github.com/basementuniverse/scene-manager/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/scene-manager)
 
-### Particles 2d
+### [Particles 2d](https://github.com/basementuniverse/particles-2d)
 
 A component for animating and rendering particles in 2d games.
 
-* https://github.com/basementuniverse/particles-2d
-* https://www.npmjs.com/package/@basementuniverse/particles-2d
+* [README](https://github.com/basementuniverse/particles-2d/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/particles-2d)
 
-### Input Manager
+### [Input Manager](https://github.com/basementuniverse/input-manager)
 
 A component for handling input events and managing input device state.
 
-* https://github.com/basementuniverse/input-manager
-* https://www.npmjs.com/package/@basementuniverse/input-manager
+* [README](https://github.com/basementuniverse/input-manager/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/input-manager)
 
-### Debug
+### [Debug](https://github.com/basementuniverse/debug)
 
 A component for rendering debug output on a canvas.
 
-* https://github.com/basementuniverse/debug
-* https://www.npmjs.com/package/@basementuniverse/debug
+* [README](https://github.com/basementuniverse/debug/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/debug)
 
-### Content Manager
+### [Content Manager](https://github.com/basementuniverse/content-manager)
 
 A component for loading content assets and providing access to them.
 
-* https://github.com/basementuniverse/content-manager
-* https://www.npmjs.com/package/@basementuniverse/content-manager
+* [README](https://github.com/basementuniverse/content-manager/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/content-manager)
 
-### Camera
+### [Camera](https://github.com/basementuniverse/camera)
 
 A camera component for use in 2d browser games.
 
-* https://github.com/basementuniverse/camera
-* https://www.npmjs.com/package/@basementuniverse/camera
+* [README](https://github.com/basementuniverse/camera/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/camera)
 
-### Camera 3d
+### [Camera 3d](https://github.com/basementuniverse/camera-3d)
 
 A camera component for use in 3d browser games.
 
-* https://github.com/basementuniverse/camera-3d
-* https://www.npmjs.com/package/@basementuniverse/camera-3d
+* [README](https://github.com/basementuniverse/camera-3d/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/camera-3d)
 
 ## Experiments and other miscellaneous stuff
 
-### Asobi
+### [Asobi](https://github.com/basementuniverse/asobi)
 
 Framework for building and running turn-based games.
 
-* https://github.com/basementuniverse/asobi
-* https://www.npmjs.com/package/@basementuniverse/asobi-server
-* https://www.npmjs.com/package/@basementuniverse/asobi-client
+* [README](https://github.com/basementuniverse/asobi/blob/master/README.md)
+* [NPM (server)](https://www.npmjs.com/package/@basementuniverse/asobi-server)
+* [NPM (client)](https://www.npmjs.com/package/@basementuniverse/asobi-client)
 
-### Lighting 2d
+### [Lighting 2d](https://github.com/basementuniverse/lighting-2d)
 
 Lighting and shadows in 2.5d.
 
-* https://github.com/basementuniverse/lighting-2d
+* [README](https://github.com/basementuniverse/lighting-2d/blob/master/README.md)
 
-### Game Example
+### [Game Example](https://github.com/basementuniverse/game-example)
 
 A demo of various game components.
 
-* https://github.com/basementuniverse/game-example
+* [README](https://github.com/basementuniverse/game-example/blob/master/README.md)
 
-### Async
+### [Async](https://github.com/basementuniverse/async)
 
 Async versions of common list functions.
 
-* https://github.com/basementuniverse/async
-* https://www.npmjs.com/package/@basementuniverse/async
+* [README](https://github.com/basementuniverse/async/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/async)
 
-### Stats
+### [Stats](https://github.com/basementuniverse/stats)
 
 Basic statistics functions.
 
-* https://github.com/basementuniverse/stats
-* https://www.npmjs.com/package/@basementuniverse/stats
+* [README](https://github.com/basementuniverse/stats/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/stats)
 
-### Weighted Averages
+### [Weighted Averages](https://github.com/basementuniverse/weighted-averages)
 
 Various weighted average functions.
 
-* https://github.com/basementuniverse/weighted-averages
-* https://www.npmjs.com/package/@basementuniverse/weighted-averages
+* [README](https://github.com/basementuniverse/weighted-averages/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/weighted-averages)
 
-### Simple State Machine
+### [Simple State Machine](https://github.com/basementuniverse/simple-state-machine)
 
 Define finite state machines and validate state transitions.
 
-* https://github.com/basementuniverse/simple-state-machine
-* https://www.npmjs.com/package/@basementuniverse/simple-state-machine
+* [README](https://github.com/basementuniverse/simple-state-machine/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/simple-state-machine)
 
-### ParseColor
+### [ParseColor](https://github.com/basementuniverse/parsecolor)
 
 A function for parsing colors and turning them into RGBA values.
 
-* https://github.com/basementuniverse/parsecolor
-* https://www.npmjs.com/package/@basementuniverse/parsecolor
+* [README](https://github.com/basementuniverse/parsecolor/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/parsecolor)
 
-### Tily
+### [Tily](https://github.com/basementuniverse/tily)
 
 A simple tile engine with Javascript and Canvas.
 
-* https://github.com/basementuniverse/tily
+* [README](https://github.com/basementuniverse/tily/blob/master/README.md)
 
-### Tyre Model
+### [Tyre Model](https://github.com/basementuniverse/tyre-model)
 
 2d driving with skidding and sliding.
 
-* https://github.com/basementuniverse/tyre-model
+* [README](https://github.com/basementuniverse/tyre-model/blob/master/README.md)
