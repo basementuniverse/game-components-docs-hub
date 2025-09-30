@@ -46,80 +46,13 @@ A component for animating values in browser games.
 * [editor](https://basementuniverse.github.io/animation/demos/editor.html)
 * [multi-animation](https://basementuniverse.github.io/animation/demos/multi-animation.html)
 
-### [Scene Graph](https://github.com/basementuniverse/scene-graph)
+### [Audio Manager](https://github.com/basementuniverse/audio-manager)
 
-A basic scene graph component for use in 2d games.
+A component for playing audio (sound effects and music) in HTML5 games.
 
-* [README](https://github.com/basementuniverse/scene-graph/blob/master/README.md)
-* [NPM](https://www.npmjs.com/package/@basementuniverse/scene-graph)
-
-### [Image Font](https://github.com/basementuniverse/image-font)
-
-A component for rendering text using image fonts.
-
-* [README](https://github.com/basementuniverse/image-font/blob/master/README.md)
-* [NPM](https://www.npmjs.com/package/@basementuniverse/image-font)
-* [example](https://basementuniverse.github.io/image-font/example/example.html)
-* [generate data](https://basementuniverse.github.io/image-font/example/generate-data.html)
-
-### [Tile Map](https://github.com/basementuniverse/tile-map)
-
-Render 2d tile maps with layers, chunk rendering, tilesets, procedural generation, etc.
-
-* [README](https://github.com/basementuniverse/tile-map/blob/master/README.md)
-* [NPM](https://www.npmjs.com/package/@basementuniverse/tile-map)
-
-### [Sprite](https://github.com/basementuniverse/sprite)
-
-A basic sprite component for use in 2d games, with animations and directions.
-
-* [README](https://github.com/basementuniverse/sprite/blob/master/README.md)
-* [NPM](https://www.npmjs.com/package/@basementuniverse/sprite)
-
-### [Texture Atlas](https://github.com/basementuniverse/texture-atlas)
-
-A component for chopping up images into multiple canvases.
-
-* [README](https://github.com/basementuniverse/texture-atlas/blob/master/README.md)
-* [NPM](https://www.npmjs.com/package/@basementuniverse/texture-atlas)
-
-### [Scene Manager](https://github.com/basementuniverse/scene-manager)
-
-A component for managing a stack of scenes in a game.
-
-* [README](https://github.com/basementuniverse/scene-manager/blob/master/README.md)
-* [NPM](https://www.npmjs.com/package/@basementuniverse/scene-manager)
-
-### [Particles 2d](https://github.com/basementuniverse/particles-2d)
-
-A component for animating and rendering particles in 2d games.
-
-* [README](https://github.com/basementuniverse/particles-2d/blob/master/README.md)
-* [NPM](https://www.npmjs.com/package/@basementuniverse/particles-2d)
-* [demo 1](https://basementuniverse.github.io/particles-2d/demos/demo-1.html)
-* [demo 2](https://basementuniverse.github.io/particles-2d/demos/demo-2.html)
-* [demo 3](https://basementuniverse.github.io/particles-2d/demos/demo-3.html)
-
-### [Input Manager](https://github.com/basementuniverse/input-manager)
-
-A component for handling input events and managing input device state.
-
-* [README](https://github.com/basementuniverse/input-manager/blob/master/README.md)
-* [NPM](https://www.npmjs.com/package/@basementuniverse/input-manager)
-
-### [Debug](https://github.com/basementuniverse/debug)
-
-A component for rendering debug output on a canvas.
-
-* [README](https://github.com/basementuniverse/debug/blob/master/README.md)
-* [NPM](https://www.npmjs.com/package/@basementuniverse/debug)
-
-### [Content Manager](https://github.com/basementuniverse/content-manager)
-
-A component for loading content assets and providing access to them.
-
-* [README](https://github.com/basementuniverse/content-manager/blob/master/README.md)
-* [NPM](https://www.npmjs.com/package/@basementuniverse/content-manager)
+* [README](https://github.com/basementuniverse/audio-manager/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/audio-manager)
+* [demo](https://basementuniverse.github.io/audio-manager/demo/index.html)
 
 ### [Camera](https://github.com/basementuniverse/camera)
 
@@ -135,6 +68,81 @@ A camera component for use in 3d browser games.
 * [README](https://github.com/basementuniverse/camera-3d/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/camera-3d)
 * [example](https://basementuniverse.github.io/camera-3d/example.html)
+
+### [Content Manager](https://github.com/basementuniverse/content-manager)
+
+A component for loading content assets and providing access to them.
+
+* [README](https://github.com/basementuniverse/content-manager/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/content-manager)
+
+### [Debug](https://github.com/basementuniverse/debug)
+
+A component for rendering debug output on a canvas.
+
+* [README](https://github.com/basementuniverse/debug/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/debug)
+
+### [Image Font](https://github.com/basementuniverse/image-font)
+
+A component for rendering text using image fonts.
+
+* [README](https://github.com/basementuniverse/image-font/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/image-font)
+* [example](https://basementuniverse.github.io/image-font/example/example.html)
+* [generate data](https://basementuniverse.github.io/image-font/example/generate-data.html)
+
+### [Input Manager](https://github.com/basementuniverse/input-manager)
+
+A component for handling input events and managing input device state.
+
+* [README](https://github.com/basementuniverse/input-manager/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/input-manager)
+
+### [Particles 2d](https://github.com/basementuniverse/particles-2d)
+
+A component for animating and rendering particles in 2d games.
+
+* [README](https://github.com/basementuniverse/particles-2d/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/particles-2d)
+* [demo 1](https://basementuniverse.github.io/particles-2d/demos/demo-1.html)
+* [demo 2](https://basementuniverse.github.io/particles-2d/demos/demo-2.html)
+* [demo 3](https://basementuniverse.github.io/particles-2d/demos/demo-3.html)
+
+### [Scene Graph](https://github.com/basementuniverse/scene-graph)
+
+A basic scene graph component for use in 2d games.
+
+* [README](https://github.com/basementuniverse/scene-graph/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/scene-graph)
+
+### [Scene Manager](https://github.com/basementuniverse/scene-manager)
+
+A component for managing a stack of scenes in a game.
+
+* [README](https://github.com/basementuniverse/scene-manager/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/scene-manager)
+
+### [Sprite](https://github.com/basementuniverse/sprite)
+
+A basic sprite component for use in 2d games, with animations and directions.
+
+* [README](https://github.com/basementuniverse/sprite/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/sprite)
+
+### [Texture Atlas](https://github.com/basementuniverse/texture-atlas)
+
+A component for chopping up images into multiple canvases.
+
+* [README](https://github.com/basementuniverse/texture-atlas/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/texture-atlas)
+
+### [Tile Map](https://github.com/basementuniverse/tile-map)
+
+Render 2d tile maps with layers, chunk rendering, tilesets, procedural generation, etc.
+
+* [README](https://github.com/basementuniverse/tile-map/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/tile-map)
 
 ## Experiments and other miscellaneous stuff
 
