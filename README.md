@@ -146,6 +146,14 @@ Render 2d tile maps with layers, chunk rendering, tilesets, procedural generatio
 
 ## Experiments and other miscellaneous stuff
 
+### [E2 - Editor Elements](https://github.com/basementuniverse/e2)
+
+A set of web components for building game editors.
+
+* [README](https://github.com/basementuniverse/e2/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/e2)
+* [demos](https://basementuniverse.github.io/e2/demos/)
+
 ### [Asobi](https://github.com/basementuniverse/asobi)
 
 Framework for building and running turn-based games.
