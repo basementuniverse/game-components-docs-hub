@@ -69,6 +69,13 @@ A camera component for use in 3d browser games.
 * [NPM](https://www.npmjs.com/package/@basementuniverse/camera-3d)
 * [example](https://basementuniverse.github.io/camera-3d/example.html)
 
+### [Color](https://github.com/basementuniverse/color)
+
+A small color utilities library.
+
+* [README](https://github.com/basementuniverse/color/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/color)
+
 ### [Content Manager](https://github.com/basementuniverse/content-manager)
 
 A component for loading content assets and providing access to them.
