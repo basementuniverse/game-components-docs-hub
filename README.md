@@ -106,6 +106,15 @@ A component for handling input events and managing input device state.
 * [README](https://github.com/basementuniverse/input-manager/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/input-manager)
 
+### [Layout](https://github.com/basementuniverse/layout)
+
+Create responsive layouts for HTML5 Canvas.
+
+* [README](https://github.com/basementuniverse/layout/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/layout)
+* [examples](https://basementuniverse.github.io/layout/examples/)
+* [editor](https://basementuniverse.github.io/layout/editor/)
+
 ### [Particles 2d](https://github.com/basementuniverse/particles-2d)
 
 A component for animating and rendering particles in 2d games.
