@@ -124,6 +124,7 @@ A component for animating and rendering particles in 2d games.
 * [demo 1](https://basementuniverse.github.io/particles-2d/demos/demo-1.html)
 * [demo 2](https://basementuniverse.github.io/particles-2d/demos/demo-2.html)
 * [demo 3](https://basementuniverse.github.io/particles-2d/demos/demo-3.html)
+* [editor](https://basementuniverse.github.io/particles-2d/editor/)
 
 ### [Scene Graph](https://github.com/basementuniverse/scene-graph)
 
