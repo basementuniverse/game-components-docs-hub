@@ -106,6 +106,17 @@ A component for handling input events and managing input device state.
 * [README](https://github.com/basementuniverse/input-manager/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/input-manager)
 
+### [Interaction](https://github.com/basementuniverse/interaction)
+
+A component for handling common UI interactions in a canvas.
+
+* [README](https://github.com/basementuniverse/interaction/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/interaction)
+* [demo-click](https://basementuniverse.github.io/interaction/demos/demo-click.html)
+* [demo-drag](https://basementuniverse.github.io/interaction/demos/demo-drag.html)
+* [demo-select](https://basementuniverse.github.io/interaction/demos/demo-select.html)
+* [demo-sliders](https://basementuniverse.github.io/interaction/demos/demo-sliders.html)
+
 ### [Layout](https://github.com/basementuniverse/layout)
 
 Create responsive layouts for HTML5 Canvas.
