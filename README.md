@@ -180,6 +180,14 @@ Render 2d tile maps with layers, chunk rendering, tilesets, procedural generatio
 * [README](https://github.com/basementuniverse/tile-map/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/tile-map)
 
+### [View Port](https://github.com/basementuniverse/view-port)
+
+A component for managing the visible area of a game world divided up into chunks.
+
+* [README](https://github.com/basementuniverse/view-port/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/view-port)
+* [example](https://basementuniverse.github.io/view-port/example/example.html)
+
 ## Experiments and other miscellaneous stuff
 
 ### [E2 - Editor Elements](https://github.com/basementuniverse/e2)
