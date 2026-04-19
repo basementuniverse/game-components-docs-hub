@@ -90,6 +90,13 @@ A component for rendering debug output on a canvas.
 * [README](https://github.com/basementuniverse/debug/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/debug)
 
+### [Frame Timer](https://github.com/basementuniverse/frame-timer)
+
+A component for tracking frame times and calculating elapsed time in game loops.
+
+* [README](https://github.com/basementuniverse/frame-timer/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/frame-timer)
+
 ### [Image Font](https://github.com/basementuniverse/image-font)
 
 A component for rendering text using image fonts.
