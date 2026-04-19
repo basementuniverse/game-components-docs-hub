@@ -166,6 +166,13 @@ A basic sprite component for use in 2d games, with animations and directions.
 * [README](https://github.com/basementuniverse/sprite/blob/master/README.md)
 * [NPM](https://www.npmjs.com/package/@basementuniverse/sprite)
 
+### [Stopwatch](https://github.com/basementuniverse/stopwatch)
+
+A somewhat accurate timer for use in browser games.
+
+* [README](https://github.com/basementuniverse/stopwatch/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/stopwatch)
+
 ### [Texture Atlas](https://github.com/basementuniverse/texture-atlas)
 
 A component for chopping up images into multiple canvases.
