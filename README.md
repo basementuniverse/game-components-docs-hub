@@ -133,6 +133,15 @@ Create responsive layouts for HTML5 Canvas.
 * [examples](https://basementuniverse.github.io/layout/examples/)
 * [editor](https://basementuniverse.github.io/layout/editor/)
 
+### [Noise Generator](https://github.com/basementuniverse/noise-generator)
+
+A component for generating procedural noise.
+
+* [README](https://github.com/basementuniverse/noise-generator/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/noise-generator)
+* [examples](https://basementuniverse.github.io/noise-generator/examples/)
+* [editor](https://basementuniverse.github.io/noise-generator/editor/)
+
 ### [Particles 2d](https://github.com/basementuniverse/particles-2d)
 
 A component for animating and rendering particles in 2d games.
@@ -221,6 +230,14 @@ Framework for building and running turn-based games.
 * [NPM (client)](https://www.npmjs.com/package/@basementuniverse/asobi-client)
 * [connect 4 example](http://connect4.basementuniverse.com/)
 * [battleships example](http://battleships.basementuniverse.com/)
+
+### [Graph Builder](https://github.com/basementuniverse/graph-builder)
+
+A canvas-based graph builder and editor.
+
+* [README](https://github.com/basementuniverse/graph-builder/blob/master/README.md)
+* [NPM](https://www.npmjs.com/package/@basementuniverse/graph-builder)
+* [demo](https://basementuniverse.github.io/graph-builder/demo.html)
 
 ### [Lighting 2d](https://github.com/basementuniverse/lighting-2d)
 
